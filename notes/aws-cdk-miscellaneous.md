@@ -1,0 +1,1 @@
+[AWS CDK (https://github.com/aws-samples/aws-cdk-examples/blob/master/typescript/resource-overrides/index.ts)

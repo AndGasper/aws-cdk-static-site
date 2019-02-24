@@ -1,0 +1,24 @@
+{
+  "name": "aws-cdk-example",
+  "version": "1.0.0",
+  "description": "Website + Green/Blue style service",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Gasper",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^11.9.5",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-cloudfront": "^0.24.1",
+    "@aws-cdk/aws-route53": "^0.24.1",
+    "@aws-cdk/aws-s3": "^0.24.1",
+    "@aws-cdk/cdk": "^0.24.1"
+  }
+}

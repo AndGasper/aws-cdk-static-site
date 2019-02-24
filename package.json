@@ -1,0 +1,11 @@
+{
+  "name": "aws-ecs-alb-blue-green-deployment",
+  "version": "1.0.0",
+  "description": "AWS CDK for blue green deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Gasper",
+  "license": "ISC"
+}
