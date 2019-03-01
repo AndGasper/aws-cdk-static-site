@@ -1,0 +1,5 @@
+# Do not copy the node modules
+**/node_modules
+
+# Do not copy the README
+README.md
