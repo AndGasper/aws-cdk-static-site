@@ -1,0 +1,7 @@
+{
+    "app": "node ./build/index.js",
+    "context": {
+        "domain": "wakemygameup.com",
+        "subdomain": "www"
+    }
+}

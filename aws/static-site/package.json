@@ -19,6 +19,7 @@
     "@aws-cdk/aws-cloudfront": "^0.24.1",
     "@aws-cdk/aws-route53": "^0.24.1",
     "@aws-cdk/aws-s3": "^0.24.1",
-    "@aws-cdk/cdk": "^0.24.1"
+    "@aws-cdk/cdk": "^0.24.1",
+    "aws-cdk": "^0.25.0"
   }
 }

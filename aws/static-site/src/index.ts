@@ -13,6 +13,7 @@ import { StaticSite } from './static-site';
  *   }
  * }
 **/
+// hmm context provider
 class MyStaticSiteStack extends cdk.Stack {
     constructor(parent: cdk.App, name: string, props: cdk.StackProps) {
         super(parent, name, props);
